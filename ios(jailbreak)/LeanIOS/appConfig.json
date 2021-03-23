@@ -8,7 +8,7 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://28klotlucas2.github.io/Cat-Clicker-With-Save-Data/",
+    "initialUrl": "https://28klotlucas2.github.io/Cat-Clicker-With-Save-Data/App",
     "appName": "Cat Click",
     "iosBundleId": "com.me.catclick",
     "androidVersionName": "1.0.1",
@@ -17,6 +17,7 @@
     "deviceRegKey": "cz3gfp7ywd7uanvwq8mzh5vwhr"
   },
   "navigation": {
+    "iosSettings": {},
     "tabNavigation": {
       "tabSelectionConfig": [
         {
@@ -26,12 +27,12 @@
       ],
       "tabMenus": [
         {
-          "id": "1",
           "items": [
             {
               "subLinks": []
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -53,13 +54,13 @@
       },
       "menus": [
         {
-          "name": "default",
           "items": null,
+          "name": "default",
           "active": false
         },
         {
-          "name": "loggedIn",
           "items": null,
+          "name": "loggedIn",
           "active": false
         }
       ]
@@ -152,6 +153,7 @@
       "backgroundColor": "#FFFFFF",
       "backgroundImage": "https://s3.amazonaws.com/gonativeio/public/ios_launch_screen_background_default_FFFFFF_1_2x2.png"
     },
+    "androidLaunchImages": {},
     "transitionInteractiveDelayMax": 0.2,
     "menuAnimationDuration": 0.15,
     "androidShowSplash": true,
@@ -182,6 +184,7 @@
     "interceptForms": {
       "forms": []
     },
+    "search": {},
     "loginConfig": {
       "formSelector": null,
       "formInputs": []
@@ -197,6 +200,7 @@
     "androidDownloadToPublicStorage": false,
     "enableWebRTC": false
   },
+  "publishing": {},
   "performance": {
     "webviewPools": [
       {
