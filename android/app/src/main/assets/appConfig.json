@@ -11,7 +11,7 @@
     "initialUrl": "https://28klotlucas2.github.io/Cat-Clicker-With-Save-Data/App",
     "appName": "Cat Click",
     "iosBundleId": "com.me.catclick",
-    "androidVersionName": "1.0.1",
+    "androidVersionName": "1.0.2",
     "androidPackageName": "com.me.catclick",
     "publicKey": "qnyqnk",
     "deviceRegKey": "cz3gfp7ywd7uanvwq8mzh5vwhr"
@@ -160,7 +160,7 @@
     "disableAnimations": false,
     "hideWebviewAlpha": 0.5,
     "icon": "https://gonativeio.s3.amazonaws.com/uploads/3tfn32rr41u76_1616451375118.x-icon",
-    "iosHeaderImage": "images/logo1.png",
+    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/8kr8fa77hyu2u_1616718538933.",
     "showActionBar": false,
     "showNavigationBar": false,
     "iosSidebarFont": "Default",
@@ -197,7 +197,7 @@
   },
   "permissions": {
     "usesGeolocation": true,
-    "androidDownloadToPublicStorage": false,
+    "androidDownloadToPublicStorage": true,
     "enableWebRTC": false
   },
   "publishing": {},
